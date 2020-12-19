@@ -1,0 +1,104 @@
+.footer-bg{
+	background-color: #2c2c2d;
+	color: #aaa;
+	font-weight: 300;
+	padding-top: 40px;
+	padding-bottom: 5px;
+	box-sizing: border-box;
+}
+.bulet{
+	border-radius:60%;
+	width: 100px;
+	height: 100px;
+	/*margin: 0 auto;*/
+}
+/*.row-custom{
+	display: flex !important;
+	justify-content: space-around;
+	align-self: flex-end;
+}*/
+.custom-container{
+	width: 100%;
+}
+.section-bg{
+	background-color: #f3f3f3;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.hidden{
+	overflow: hidden;
+}
+.mb-11{
+	margin-bottom: -30px;
+}
+.mb-6{
+	margin-bottom: 60px;
+}
+.mb-7{
+	margin-bottom: 70px;
+}
+.mb-8{
+	margin-bottom: 80px;
+}
+.mb-9{
+	margin-bottom: 90px;
+}
+.mb-10{
+	margin-bottom: 100px;
+}
+
+.mt-6{
+	margin-top: 60px;
+}
+.mt-7{
+	margin-top: 70px;
+}
+.mt-8{
+	margin-top: 80px;
+}
+.mt-9{
+	margin-top: 90px;
+}
+.mt-10{
+	margin-top: 100px;
+}
+.fw-200{
+	font-weight: 200;
+}
+.card-img{
+	/*width: 100% !important;*/
+	height: 100%;
+}
+.jumbotron{
+	height: 400px;
+}
+/*===============color=================*/
+.color-b{
+	background-color: #f3f3f3;
+}
+.space{
+	white-space: nowrap;
+}
+.color-gelap{
+	color: #333;
+}
+.color-Agelap{
+	color: #999;
+}
+.c-61{
+	color: #616161 !important;
+	/*font*/
+}
+.c-21{
+	color: #212121 !important;
+}
+.decoration-none{
+	text-decoration: none !important	;
+}
+/*===============color=================*/
+
+.custom-login{
+	background: green !important;
+	/*color: red !important;*/
+
+}
